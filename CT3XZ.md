@@ -41,3 +41,17 @@
 > ---
 > For manual installation:
 > [Click here to download](https://drive.google.com/file/d/1qVmxaQxddvPRjEKHjQVjj3Eo_cawSE9C/view?usp=sharing)
+
+## CT3 で画面ロックを設定したい
+
+下記の APK をダウンロードし、インストールしてください。
+
+<https://github.com/s1204IT/ResetPasswordTester/releases/download/v1.0.0/ResetPasswordTester-nougat-v1.0.0.apk>
+
+インストールが完了すると、ホーム画面に南京錠のアイコンで「パスワードを変更」と言う名前でアプリが配置されます。  
+起動すると、初回のみ端末管理アプリの有効化が求められるので有効にし、もう一度アプリを開くとパスワードの設定を行う画面になります。
+
+ADB を介さずに端末のみでインストールするには、初回のみ次のコマンドを実行する必要があります：
+```
+adb shell settings put secure install_non_market_apps 1
+```
