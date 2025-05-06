@@ -4,11 +4,11 @@
 
 ### TAB-A03-BS
 
-[**recovery-a03bs.zip**](https://github.com/s1204IT/CPadGmsSystem/releases/download/latest/recovery-a03bs.zip)
+[**recovery-a03bs.zip**](https://github.com/s1204IT/CPadGmsSystem/releases/download/gms/recovery-a03bs.zip)
 
 ### TAB-A03-BR/BR2/BR2B
 
-[**recovery-a03br2.zip**](https://github.com/s1204IT/CPadGmsSystem/releases/download/latest/recovery-a03br2.zip)
+[**recovery-a03br2.zip**](https://github.com/s1204IT/CPadGmsSystem/releases/download/gms/recovery-a03br2.zip)
 
 ダウンロードしたら展開し、`recovery-a03**.img` を **Rufus** 等を用いてSDカードにフラッシュします。
 
