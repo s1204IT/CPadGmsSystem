@@ -3,7 +3,8 @@
 必須条件
 - Windows 10 以降の PC
 - 文鎮化したチャレンジパッドNext
-- MTK META UTILITY
+- チャレンジパッドと PC を接続する USB ケーブル
+- [MTK META UTILITY](https://github.com/s1204IT/CPadGmsSystem/releases/download/gms/MTKMETAUtility.exe)
 
 1. チャレンジパッド本体上部のリセットスイッチを爪楊枝等で押す
 2. **MTK META UTILITY** を起動
