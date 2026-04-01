@@ -21,6 +21,10 @@
 
 ## 使用許諾
 
-このプロジェクトは、[**GNU General Public License v3**](LICENSE) の下に基づいてライセンスされています。
+このプロジェクトは、[**CC BY-NC 4.0**](LICENSE) の下に基づいてライセンスされています。
 
-このプロジェクトの成果物を利用して何らかの形で再頒布(**redistribute**)する場合は、必ずクレジットを記載してください。
+このプロジェクトの成果物を利用して何らかの形で再頒布(**redistribute**)する場合は、必ず以下のクレジットを記載してください：
+> Copyright (c) 2024 Syuugo (https://github.com/s1204IT/CPadGmsSystem)
+
+> [!IMPORTANT]
+> 商用利用は禁止されています。
